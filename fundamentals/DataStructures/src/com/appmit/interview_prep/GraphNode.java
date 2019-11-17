@@ -1,4 +1,4 @@
-package com.appmit.chapter4.interview_prep;
+package com.appmit.interview_prep;
 
 import java.util.LinkedList;
 import java.util.List;

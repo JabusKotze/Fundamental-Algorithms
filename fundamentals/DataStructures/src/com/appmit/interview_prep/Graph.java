@@ -1,6 +1,5 @@
-package com.appmit.chapter4.interview_prep;
+package com.appmit.interview_prep;
 
-import java.util.Iterator;
 import java.util.LinkedList;
 
 public class Graph<T> {

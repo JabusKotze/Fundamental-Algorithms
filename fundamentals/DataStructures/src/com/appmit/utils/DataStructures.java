@@ -200,11 +200,42 @@ public class DataStructures {
         String result = sb.toString();
     }
 
+    public static void linkedListPop(){
+        LinkedList<Integer> list = new LinkedList<>(Arrays.asList(1,2,3,4));
+
+        System.out.println(list);
+
+        // Add to tail
+        list.add(5);
+        System.out.println(list);
+
+        // Remove / pop from head
+        int item = list.pop();
+        System.out.println(item);
+        System.out.println(list);
+
+        // Remove from tail
+        item = list.removeLast();
+        System.out.println(item);
+        System.out.println(list);
+
+        // Push to head
+        list.push(10);
+        System.out.println(list);
+
+        // Push to head
+        item = list.remove();
+        System.out.println(item);
+    }
+
     public static void main(String[] args){
-        linkedListLIFO();
+//        linkedListLIFO();
+//
+//        linkedListFIFO();
+//
+//        stackLIFO();
 
-        linkedListFIFO();
+         linkedListPop();
 
-        stackLIFO();
     }
 }

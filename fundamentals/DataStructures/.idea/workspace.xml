@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b71383a5-6561-4814-abcf-fb5505643908" name="Default Changelist" comment="" />
+    <list default="true" id="b71383a5-6561-4814-abcf-fb5505643908" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/appmit/chapter2/q3_delete_node/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/appmit/chapter2/q7_intersection/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/appmit/interview_prep/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/appmit/interview_prep/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/NodeWithMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/NodeWithMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/BinaryTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/appmit/interview_prep/BinaryTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/appmit/interview_prep/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/GraphNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/appmit/interview_prep/GraphNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/appmit/interview_prep/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/appmit/utils/DataStructures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/appmit/utils/DataStructures.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,100 +27,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/Graph.java">
+        <entry file="file://$PROJECT_DIR$/src/com/appmit/interview_prep/Sorting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+            <state relative-caret-position="90">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/appmit/interview_prep/BinaryTreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="85" column="56" lean-forward="true" selection-start-line="85" selection-start-column="56" selection-end-line="85" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q3_list_of_depths/Question.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/appmit/interview_prep/MyStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/appmit/interview_prep/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q10_check_subtree/Question.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="44" column="54" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/Sorting.java">
+        <entry file="file://$PROJECT_DIR$/src/com/appmit/utils/DataStructures.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+            <state relative-caret-position="218">
+              <caret line="229" column="25" selection-start-line="229" selection-start-column="25" selection-end-line="229" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/BinaryTreeNode.java">
+        <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/NodeWithMin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="84" column="29" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
+            <state relative-caret-position="60">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q2_minimal_trees/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/GraphNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q1_route_between_nodes/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q1_route_between_nodes/Graph.java">
+        <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/StackWithMin2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q1_route_between_nodes/Question.java">
+        <entry file="file://$PROJECT_DIR$/src/com/appmit/interview_prep/GraphNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="30">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13665">
-              <caret line="970" column="15" selection-start-line="970" selection-start-column="15" selection-end-line="970" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -130,12 +139,12 @@
       <dir>$PROJECT_DIR$/src/com/appmit/chapter3</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/appmit/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/appmit/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/com/appmit/RouteBetweenNodes.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/route/Graph.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/route/Node.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/route/RouteBetweenNodes.java" />
@@ -145,13 +154,11 @@
         <option value="$PROJECT_DIR$/src/com/appmit/chapter4/q2_minimal_trees/Question.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter4/q4_balanced/Question.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter4/q10_check_subtree.java" />
-        <option value="$PROJECT_DIR$/src/com/appmit/chapter4/q10_check_subtree/Question.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter4/q11_paths_with_sum/Question.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter10/q1_sorted_merge/Question.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter3/Question.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter3/q1_three_in_one/Question.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/StackNode.java" />
-        <option value="$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/NodeWithMin.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/StackWithMin.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/Question.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/StackWithMin2.java" />
@@ -176,13 +183,19 @@
         <option value="$PROJECT_DIR$/src/com/appmit/chapter2/q6_palindrome/QuestionB.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter2/q5_sum_lists/Question.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter3/valid_brackets/Question.java" />
-        <option value="$PROJECT_DIR$/src/com/appmit/utils/DataStructures.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/Node.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/BinaryTreeNode.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/GraphNode.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/Graph.java" />
         <option value="$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/Sorting.java" />
+        <option value="$PROJECT_DIR$/src/com/appmit/chapter2/q7_intersection/Question.java" />
+        <option value="$PROJECT_DIR$/src/com/appmit/chapter2/q3_delete_node/Question.java" />
+        <option value="$PROJECT_DIR$/src/com/appmit/interview_prep/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/com/appmit/interview_prep/MyQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/NodeWithMin.java" />
+        <option value="$PROJECT_DIR$/src/com/appmit/chapter4/q10_check_subtree/Question.java" />
+        <option value="$PROJECT_DIR$/src/com/appmit/utils/DataStructures.java" />
       </list>
     </option>
   </component>
@@ -192,6 +205,7 @@
     <option name="width" value="1208" />
     <option name="height" value="685" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -201,8 +215,86 @@
         <subPane>
           <expand>
             <path>
-              <item name="Trees and Graphs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trees and Graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="appmit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="appmit" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="appmit" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="appmit" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="q2_stack_min" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="appmit" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="valid_brackets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="appmit" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="appmit" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+              <item name="q3_list_of_depths" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="appmit" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+              <item name="q10_check_subtree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="appmit" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_prep" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="appmit" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -213,7 +305,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555863776538" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,7 +321,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sorting">
+  <component name="RunManager" selected="Application.DataStructures">
     <configuration name="DataStructures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.appmit.utils.DataStructures" />
       <module name="data_structures" />
@@ -241,12 +335,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.appmit.chapter2.q5_sum_lists.Question" />
+    <configuration name="Question (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.appmit.chapter4.q10_check_subtree.Question" />
       <module name="data_structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.appmit.chapter2.q5_sum_lists.*" />
+          <option name="PATTERN" value="com.appmit.chapter4.q10_check_subtree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,12 +348,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuestionA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.appmit.chapter2.q6_palindrome.QuestionA" />
+    <configuration name="Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.appmit.chapter2.q5_sum_lists.Question" />
       <module name="data_structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.appmit.chapter2.q6_palindrome.*" />
+          <option name="PATTERN" value="com.appmit.chapter2.q5_sum_lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,11 +375,11 @@
       </method>
     </configuration>
     <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.appmit.chapter4.interview_prep.Sorting" />
+      <option name="MAIN_CLASS_NAME" value="com.appmit.interview_prep.Sorting" />
       <module name="data_structures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.appmit.chapter4.interview_prep.*" />
+          <option name="PATTERN" value="com.appmit.interview_prep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,67 +387,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="data_structures" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="data_structures" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.QuestionA" />
+      <item itemvalue="Application.DataStructures" />
       <item itemvalue="Application.QuestionB" />
       <item itemvalue="Application.Question" />
-      <item itemvalue="Application.DataStructures" />
       <item itemvalue="Application.Sorting" />
+      <item itemvalue="Application.Question (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.DataStructures" />
+        <item itemvalue="Application.Question (1)" />
+        <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.Question" />
         <item itemvalue="Application.QuestionB" />
-        <item itemvalue="Application.QuestionA" />
       </list>
     </recent_temporary>
   </component>
@@ -372,8 +419,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24232633" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2625202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -382,7 +430,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32901135" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3273906" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3273906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39708266" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,62 +496,10 @@
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/appmit/chapter3/valid_brackets/Question.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/appmit/chapter3/valid_brackets/Question.java</url>
-          <line>46</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/appmit/chapter3/valid_brackets/Question.java</url>
-          <line>50</line>
-          <properties />
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/appmit/chapter3/valid_brackets/Question.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/appmit/chapter3/valid_brackets/Question.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/route/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q10_check_subtree.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/route/RouteBetweenNodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q11_paths_with_sum/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="36" column="86" selection-start-line="36" selection-start-column="86" selection-end-line="36" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter3/q1_three_in_one/Question.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -516,27 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/StackWithMin2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/StackWithMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -603,20 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/NodeWithMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q10_check_subtree/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="74" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter10/Question.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -631,16 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q3_list_of_depths/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q4_balanced/Question.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -652,27 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter2/q6_palindrome/QuestionB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter2/q6_palindrome/QuestionA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/utils/LinkedListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -746,34 +676,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter2/q5_sum_lists/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter3/valid_brackets/Question.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="22" selection-start-line="74" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/utils/DataStructures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/BinaryTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="84" column="29" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
+        <state relative-caret-position="630">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>
@@ -791,6 +697,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q1_route_between_nodes/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q1_route_between_nodes/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter2/q5_sum_lists/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter2/q6_palindrome/QuestionA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter2/q6_palindrome/QuestionB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter2/q7_intersection/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13665">
@@ -805,47 +759,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/GraphNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/utils/LinkedListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state relative-caret-position="180">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter2/q3_delete_node/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/interview_prep/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q1_route_between_nodes/Graph.java">
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/StackWithMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/NodeWithMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter3/q2_stack_min/StackWithMin2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q1_route_between_nodes/Question.java">
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/interview_prep/GraphNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="30">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/Graph.java">
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/interview_prep/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="50" column="22" lean-forward="true" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q10_check_subtree/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="44" column="54" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/interview_prep/BinaryTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="85" column="56" lean-forward="true" selection-start-line="85" selection-start-column="56" selection-end-line="85" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/q3_list_of_depths/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/appmit/chapter4/interview_prep/Sorting.java">
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/interview_prep/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="82" column="10" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+        <state relative-caret-position="128">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/interview_prep/Sorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appmit/utils/DataStructures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="229" column="25" selection-start-line="229" selection-start-column="25" selection-end-line="229" selection-end-column="25" />
         </state>
       </provider>
     </entry>
